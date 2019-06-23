@@ -1,0 +1,4 @@
+cafe: 150 grammes;
+sucre:28 grammes;
+lait :50 grammes;
+eau tierde: 25 cl;

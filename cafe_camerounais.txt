@@ -1,0 +1,4 @@
+cafe : 200 grammes;
+sucre: 10 grammes;
+lait:25 grammes;
+eau chaud:10c cl;
